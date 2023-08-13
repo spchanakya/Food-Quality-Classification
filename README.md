@@ -1,4 +1,7 @@
-# Food-Quality-Classification
+# Food-Quality-
+
+Please refer to the Final Report for more details and detailed explanations regarding the stages the experiment was performed and more information about the data.
+
 # The Main_code_ipynb consists of 
 all the models and their training blocks
 
